@@ -1,7 +1,9 @@
+// API
+import { getGifs } from "../helpers/getGifts";
 
 export const GifGrid = ({category}) => {
 
-    // API
+    getGifs(category);
 
     return (
         <>
