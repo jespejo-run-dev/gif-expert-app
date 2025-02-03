@@ -1,7 +1,3 @@
-¡Claro! Te puedo proporcionar un flujo de la aplicación y documentarlo en un formato claro, que pueda ser utilizado como referencia en la documentación del proyecto. Aquí te dejo una estructura detallada y organizada para que puedas agregarla a la documentación de tu proyecto:
-
----
-
 ## **Documentación del Flujo de la Aplicación: GifExpertApp**
 
 ### **1. Descripción General**
